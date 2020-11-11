@@ -110,7 +110,7 @@ BD,	DXF 40
 @item DIMALTMZF
 BD
 @item DIMALTMZS
-T
+T,	DXF 1
 @item DIMALTRND
 BD,	DXF 40
 @item DIMALTTD
@@ -216,7 +216,7 @@ BS
 @item DIMMZF
 BD
 @item DIMMZS
-T
+T,	DXF 1
 @item DIMPOST
 TV,	DXF 1
 @item DIMPOST_T
